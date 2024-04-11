@@ -5,7 +5,7 @@ This guide will walk you through the steps required to set up and run the projec
 ## Setup Instructions
 
 1. **Download this repository:** 
-    - Clone or download the repository from [GitHub](https://github.com/suhu3515/repository/url).
+    - Clone or download the repository from [GitHub](https://github.com/suhu3515/document-center).
 
 2. **Install Dependencies:** 
     - Run the following command in your terminal:
